@@ -19,9 +19,7 @@ Technologies Used: NodeJS, ExpressJS, EJS, CSS, JavaScript, Nodemon, MongoDB, Mo
 ## Demo
 
 Under process...
-## Authors
 
-- [@AnkitVishwakarma](https://github.com/Ankit6098)
 
 
 ## Features
